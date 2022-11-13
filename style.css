@@ -1,104 +1,10 @@
 body {
-    background-color: #028090;
+    background-color: #1d2330;
     font-family: 'Roboto', sans-serif;
-  }
-  
-  #game {
-    float: clear;
-  }
-  
-  .red-text {
-    color: #E71D36;
-  }
-  
-  #question {
-    font-size: 10em;
-    color: #F45B69;
-  }
-  
-  #play {
-    font-size: 10em;
-    background-color: #114B5F;
     color: white;
   }
+
+.main {
   
-  #answer {
-    font-size: 10em;
-    background-color: #E4FDE1;
-    width: 50%;
-    opacity: 0.3;
-    border-radius: 5px;
-    border-bottom: 4px solid;
-    color: #456990;
-  }
-  
-  #answer:focus {
-    background-color: ;
-    width: 50%;
-    color: #456990;
-    border: none;
-  }
-  
-  #result {
-    font-size: 5em;
-    border: dashed;
-    margin-left: 10%;
-  }
-  
-  #timer {
-    font-size: 10em;
-  }
-  
-  #timerBar {
-   
-    
-  }
-  
-  #prize {
-    font-size: 10em;
-    color: #F45B69;
-  }
-  
-  .sec0 {
-    width: 0%;
-  }
-  
-  .sec1 {
-    width: 10%;
-  }
-  
-  .sec2 {
-    width: 20%;
-  }
-  
-  .sec3 {
-    width: 30%;
-  }
-  
-  .sec4 {
-    width: 40%;
-  }
-  
-  .sec5 {
-    width: 50%;
-  }
-  
-  .sec6 {
-    width: 60%;
-  }
-  
-  .sec7 {
-    width: 70%;
-  }
-  
-  .sec8 {
-    width: 80%;
-  }
-  
-  .sec9 {
-    width: 90%;
-  }
-  
-  .sec10 {
-    width: 100%;
-  }
+}
+
